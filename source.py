@@ -12,6 +12,7 @@ print(page.status_code)
 soupobj=bs(cont,'html.parser')  
 #print(soupobj.prettify()) #printing out soup object 
 
+
 ### Data sorting
 #adding all country names in empty list-empli for further data frame
 
